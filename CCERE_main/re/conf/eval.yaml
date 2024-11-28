@@ -1,0 +1,13 @@
+# fp: '/home/a/zyx/Entity/DeepKE-main/example/re/standard/checkpoints_rice/lm_epoch_50_time_2023-10-01/lm_epoch45.pth'
+fp: 'E:\PyCharmProject\FoundationModel-Agriculture\re\rice.pth'
+
+eval_path: '/home/a/zyx/Entity/Data_pre/Wheat/origin_wheat_1500/train.json'
+sa_path: '/home/a/zyx/Entity/Data_pre/Wheat/Wheat_1500_tuple/relation_truple_16.csv'
+all_relation: '/home/a/zyx/Entity/Data_pre/Wheat/origin_wheat_1500/realtion_all.csv'
+read_relation: '/home/a/zyx/Entity/Data_pre/Wheat/origin_wheat_1500/realtion_all_16.csv'
+
+gpu_id: 1
+
+use_gpu: True
+starts: 0000000
+ends: 2000000
