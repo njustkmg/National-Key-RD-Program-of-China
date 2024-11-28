@@ -1,0 +1,4 @@
+# the path of the model / checkpoint to be used
+fp: 'E:\PyCharmProject\FoundationModel-Agriculture\knowledge\re\rice.pth'
+
+use_gpu: True
